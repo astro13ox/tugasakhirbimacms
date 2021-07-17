@@ -10,7 +10,7 @@
  ![Screenshot (50)](https://user-images.githubusercontent.com/25562844/126034709-b9d44f0f-0614-4951-9fa6-ea5d6640ae37.png)
 
  
- Akses Projek : [tugasakhirbima.epizy.com](tugasakhirbima.epizy.com)
+ Akses Projek : [tugasakhirbima.epizy.com](http://tugasakhirbima.epizy.com/)
  
  
  ---
