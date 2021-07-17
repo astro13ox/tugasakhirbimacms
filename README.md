@@ -4,7 +4,7 @@
  
  Projek ini berupa Aplikasi manajemen klien berbasis PHP
  
- ![(https://ibb.co/pKkVP8V)
+ ![Screenshot (45)](https://user-images.githubusercontent.com/25562844/126034537-08ee4427-c122-49c9-8a82-407242cb5719.png)
  
  Akses Projek : [tugasakhirbima.epizy.com](tugasakhirbima.epizy.com)
  
