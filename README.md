@@ -14,7 +14,8 @@
  ---
  
  
- ![Screenshot (48)](https://user-images.githubusercontent.com/25562844/126034626-5a223031-8f43-41d3-bf71-d9490365ae1d.png)
+ ![Screenshot (49)](https://user-images.githubusercontent.com/25562844/126034670-4cf57506-bf68-40e9-858d-81deaf08687b.png)
+
  ### Admin Username : admin
  
  ### Admin Password : Test@123
