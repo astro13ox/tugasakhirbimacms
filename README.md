@@ -30,5 +30,11 @@
  
  # PROJEK INI TIDAK UNTUK DIPERJUAL BELIKAN!!!
  
- # Licensed
+ # Licensed & Copyright
+ 
+ ---
+ &copy Ardean Bima Saputra
+ 
+ Licensed under the [MIT](LICENSE).
+ 
 
