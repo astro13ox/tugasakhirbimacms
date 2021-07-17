@@ -1,6 +1,7 @@
 # Projek Tugas Akhir Ardean Bima Saputra
 
-![Screenshot (43)](https://user-images.githubusercontent.com/25562844/126034590-4c5961a5-f798-4d5d-8c83-1c20f76d1ba6.png)
+![Screenshot (51)](https://user-images.githubusercontent.com/25562844/126034736-cb6de87d-65bd-46bf-a17e-18601c8b3dc6.png)
+
 
  Ini merupakan Projek Tugas akhir Ardean Bima Saputra Computing Technology 2019-2021. Projek ini telah di hosting pada layanan Hostingan gratis di Infinityfre.com
  
