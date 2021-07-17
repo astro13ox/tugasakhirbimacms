@@ -28,12 +28,16 @@
  
  Projek ini merupakan syarat kelulusan saya di Prisma Profesional Surabaya, source code dari projek ini dapat anda download secara gratis.
  
+ ---
+ 
  # PROJEK INI TIDAK UNTUK DIPERJUAL BELIKAN!!!
+ 
+ ---
  
  # Licensed & Copyright
  
  ---
- &copy Ardean Bima Saputra
+ © Ardean Bima Saputra
  
  Licensed under the [MIT](LICENSE).
  
