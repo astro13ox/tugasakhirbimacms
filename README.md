@@ -8,9 +8,6 @@
  Projek ini berupa Aplikasi manajemen klien berbasis PHP
  
  ![Screenshot (50)](https://user-images.githubusercontent.com/25562844/126034709-b9d44f0f-0614-4951-9fa6-ea5d6640ae37.png)
-
- 
- Akses Projek : [tugasakhirbima.epizy.com](http://tugasakhirbima.epizy.com/)
  
  
  ---
@@ -27,6 +24,8 @@
  ### Klien Password : tes123
  
  Projek ini merupakan syarat kelulusan saya di Prisma Profesional Surabaya, source code dari projek ini dapat anda download secara gratis.
+ 
+ Akses Projek : [tugasakhirbima.epizy.com](http://tugasakhirbima.epizy.com/)
  
  ---
  
