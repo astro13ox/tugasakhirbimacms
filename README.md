@@ -6,13 +6,13 @@
  
  Akses Projek : tugasakhirbima.epizy.com 
  
- ## Admin Username : admin
+ ### Admin Username : admin
  
- ## Admin Password : Test@123
+ ### Admin Password : Test@123
  
- ## Klien Username : ariashira@gmail.com
+ ### Klien Username : ariashira@gmail.com
  
- ## Klien Password : tes123
+ ### Klien Password : tes123
  
  Projek ini merupakan syarat kelulusan saya di Prisma Profesional Surabaya, source code dari projek ini dapat anda download secara gratis.
  
