@@ -36,7 +36,6 @@
  
  # Licensed & Copyright
  
- ---
  © Ardean Bima Saputra
  
  Licensed under the [MIT](LICENSE).
