@@ -4,7 +4,9 @@
  
  Projek ini berupa Aplikasi manajemen klien berbasis PHP
  
- Akses Projek : (tugasakhirbima.epizy.com)
+ ![https://ibb.co/pKkVP8V](https://ibb.co/pKkVP8V)
+ 
+ Akses Projek : [tugasakhirbima.epizy.com](tugasakhirbima.epizy.com)
  
  ### Admin Username : admin
  
