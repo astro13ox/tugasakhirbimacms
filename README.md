@@ -23,7 +23,7 @@
  
  ### Klien Password : tes123
  
- Projek ini merupakan syarat kelulusan saya di Prisma Profesional Surabaya, source code dari projek ini dapat anda download secara gratis.
+ Source code dari projek ini dapat anda download secara gratis.
  
  Akses Projek : [tugasakhirbima.epizy.com](http://tugasakhirbima.epizy.com/)
  
