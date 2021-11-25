@@ -3,7 +3,7 @@
 ![Screenshot (51)](https://user-images.githubusercontent.com/25562844/126034736-cb6de87d-65bd-46bf-a17e-18601c8b3dc6.png)
 
 
- Ini merupakan Projek Tugas akhir Ardean Bima Saputra. Projek ini telah di hosting pada layanan Hostingan gratis di Infinityfre.com
+ Projek ini telah di hosting pada layanan Hostingan gratis di Infinityfre.com
  
  Projek ini berupa Aplikasi manajemen klien berbasis PHP
  
